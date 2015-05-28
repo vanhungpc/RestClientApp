@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/gson-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/javase-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/jersey-client-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/jersey-core-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/jersey-json-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/REFERENCE/DATAHUNG/du lieu hung/client/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
